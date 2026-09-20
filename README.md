@@ -21,7 +21,7 @@ It then uses these checks to give a basic strength result.
 
 ## Project Output
 The output screenshort is included as:
-                                                                 password_checker_output.png
+                                        password_checker_output.png
 
 ##Challenges & Mistakes I Faced
 is project ko banate waqt mujhe kuch galtiyan aur learnings mili:
